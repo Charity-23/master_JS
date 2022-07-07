@@ -11,11 +11,13 @@ Variables holds/stores the data values
         var y = 6;
         var z = x + y;
         var l = z + y * x;
+        var t = "Welcome to the World of JavaScript";
         document.getElementById("p01").innerHTML = z;
-        document.getElementById("p02").innerHTML = z;
+        document.getElementById("p02").innerHTML = y;
         document.getElementById("p05").innerHTML  = l; 
         console.log(z);
         document.write (z);
+        
     
 
 
