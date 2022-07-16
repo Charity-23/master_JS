@@ -16,7 +16,9 @@ Variables holds/stores the data values
         document.getElementById("p02").innerHTML = y;
         document.getElementById("p05").innerHTML  = l; 
         console.log(z);
-        document.write (z);
+
+        document.write (z); 
+        document.write (40 *2);
         
     
 
